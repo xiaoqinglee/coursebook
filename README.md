@@ -1,10 +1,10 @@
 # Coursebook
 
-[![Build Status](https://github.com/illinois-cs241/coursebook/actions/workflows/deploy.yaml/badge.svg?branch=master)](https://github.com/illinois-cs241/coursebook/actions/workflows/deploy.yaml)
-[![Current Pdf Link](https://img.shields.io/badge/current-pdf-blue.svg)](https://github.com/illinois-cs241/coursebook/blob/pdf_deploy/main.pdf)
-[![Current Wiki Link](https://img.shields.io/badge/current-wiki-blue.svg)](https://github.com/illinois-cs241/coursebook/wiki)
+[![Build Status](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml/badge.svg?branch=master)](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml)
+[![Current Pdf Link](https://img.shields.io/badge/current-pdf-blue.svg)](https://github.com/cs341-illinois/coursebook/blob/pdf_deploy/main.pdf)
+[![Current Wiki Link](https://img.shields.io/badge/current-wiki-blue.svg)](https://github.com/cs341-illinois/coursebook/wiki)
 [![Current HTML Link](https://img.shields.io/badge/current-html-blue.svg)](http://cs341.cs.illinois.edu/coursebook/index.html)
-[![Current Epub Link](https://img.shields.io/badge/current-epub-blue.svg)](https://github.com/illinois-cs241/coursebook/blob/epub_deploy/main.epub)
+[![Current Epub Link](https://img.shields.io/badge/current-epub-blue.svg)](https://github.com/cs341-illinois/coursebook/blob/epub_deploy/main.epub)
 
 <p align="center">
     <img src="_images/duck-alpha-cropped.png" width="50%"/>
@@ -17,7 +17,7 @@ All of the code and instruction will be in C, as it is the de-facto language of 
 
 The Coursebook is an aim to standardize and build upon Angrave's [original wikibook experiment](https://github.com/angrave/SystemProgramming/wiki).
 
-The most recent version of the coursebook as a single pdf is here: [main.pdf](https://github.com/illinois-cs241/coursebook/blob/pdf_deploy/main.pdf).
+The most recent version of the coursebook as a single pdf is here: [main.pdf](https://github.com/cs341-illinois/coursebook/blob/pdf_deploy/main.pdf).
 
 ## Overview
 
